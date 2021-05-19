@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Capitales de Africa</string>
+    <string name="pregunta"></string>
+    <string name="enunciado">INDICA SU CAPITAL</string>
+    <string name="enunciadobot">Pulsa para empezar</string>
+    <string name="resuelto"></string>
+    <string name="radio1"></string>
+    <string name="radio2"></string>
+    <string name="radio3"></string>
+    <string name="radio4"></string>
+    <string name="volver">Reiniciar</string>
+    <string name="gana"></string>
+
+
+
+</resources>
